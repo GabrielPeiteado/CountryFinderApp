@@ -1,0 +1,54 @@
+html{
+    height: 100%;
+    background: url("../../images/FondoPI.jpg");
+    background-size: cover;
+}
+.landP {
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.landP .landTitle{
+    margin: 40px;
+    background-color: rgb(245, 245, 245, .8);
+    border-radius: 50px;
+    border: solid 2px whitesmoke;
+    padding: 5px;
+    font-size: 70px;
+}
+.landP .landText{
+    background-color: rgb(245, 245, 245, .8);
+    height: 150px;
+    padding: 95px;
+    margin-top: 75px;
+    margin-right: 75px;
+    margin-left: 850px;
+    font-size: 40px;
+    font-weight: bold;
+    border: solid 4px whitesmoke;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+.landP .btnLand{
+    border-radius: 30px;
+    font-size: 40px;
+    height: 70px;
+    width: 995px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    background-color: rgb(245, 245, 245, .8);
+    border: solid 3px whitesmoke;
+}
+.landP .btnLand:hover{
+    color: black;
+    border: solid 5px whitesmoke;
+    box-shadow: 1px 1px 100px 1px whitesmoke;
+    
+}
+.landP a{
+    margin-top: 20px;
+    height: 70px;
+    margin-left: 850px;
+    margin-right: 75px;
+    border-radius: 30px;
+}
